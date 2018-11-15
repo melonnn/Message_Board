@@ -21,4 +21,4 @@ Route::delete('/{comment}','CommentController@delete');
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+
